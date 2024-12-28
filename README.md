@@ -105,9 +105,9 @@
 #### 專案資源
 - **專案計劃書連結**: [點擊查看計劃書](https://docs.google.com/document/d/1Mm-RG6UK1iRKZT0DWtzpHyyC-faLlQr5Xrx91WPAz14/edit?usp=sharing)
 - **網站連結**: 
-[rent189 專案-前台VUE專案](https://github.com/winston20000511/rent_BackendOfTheFrontend)
-[rent189 專案-前台SPRING後台](https://github.com/winston20000511/rent_FrontOfTheFront)
-[rent189 專案-後台HIBERNATE專案](https://github.com/winston20000511/winston20000511)
+[rent189 專案-前台VUE專案](https://github.com/winston20000511/rent_BackendOfTheFrontend) / 
+[rent189 專案-前台SPRING後台](https://github.com/winston20000511/rent_FrontOfTheFront) /
+[rent189 專案-後台HIBERNATE專案](https://github.com/winston20000511/winston20000511) 
 
 ---
 
